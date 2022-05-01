@@ -6,6 +6,7 @@ The updated design delivers crisp vocal and balanced bass for full sound. Play m
 
 2. Power Adaptor
 ## GETTING TO KNOW YOUR ECO DOT
+![unnamed](https://user-images.githubusercontent.com/104711468/166137485-68624dbc-6d87-485a-9a8b-107fc6c00e9e.jpg)
 
 ### Product Specifications:
 Model Number: B7W644
@@ -42,6 +43,7 @@ The app helps you get more out of your Echo Dot. It’s where you set up calling
 ## IMPORTANT PRODUCT INFORMATION
 For safety, compliance, recycling, and other important information regarding your Device, please refer to the Legal & Compliance section in the Settings menu of your Device App.
 ## REFERENCES
-transition.fcc.gov FCC ID Search | Federal Communications Commission 
+[transition.fcc.gov FCC ID Search | Federal Communications Commission ](url)
+
 ### Give us your feedback
 Alexa is always getting smarter and adding new skills. To send us feedback about your experiences with Alexa, use the Alexa app, and visit our customer support, or simply say “Alexa, I have a feedback.”
