@@ -1,5 +1,7 @@
 # Eco Dot 
 ### Smart Speaker + Aexa  with EchoDot 4th Generation User Guide
+![unnamed (1)](https://user-images.githubusercontent.com/104711468/167150017-f027bb8c-0f32-4350-9dfa-974c37335575.jpg)
+
 The updated design delivers crisp vocal and balanced bass for full sound. Play music, turn on compatible lights, access Alexa skills and make calls to friends and family who have the Alexa app or a supported Echo device —all with your voice.
 ## WHAT’S IN THE BOX
 1.Device
@@ -9,13 +11,13 @@ The updated design delivers crisp vocal and balanced bass for full sound. Play m
 ![unnamed](https://user-images.githubusercontent.com/104711468/166137485-68624dbc-6d87-485a-9a8b-107fc6c00e9e.jpg)
 
 ### Product Specifications:
-Model Number: B7W644
+**Model Number:** B7W644
 
-Power: 12VDC 1.25A output power adapter (in-box)
+**Power:** 12VDC 1.25A output power adapter (in-box)
 
-Operating temperature: 0°C to 35°C
+**Operating temperature:** 0°C to 35°C
 
-Connectivity: Dual Band Wi-Fi (2.4/5GHz) 802.11 a/b/g/n/ac; BT BDR/EDR, BLE
+**Connectivity:** Dual Band Wi-Fi (2.4/5GHz) 802.11 a/b/g/n/ac; BT BDR/EDR, BLE
 
 ## ALEXA IS DESIGNED TO PROTECT YOUR PRIVACY
 ### 1. Wake word and indicators
@@ -40,8 +42,9 @@ Plug your Echo Dot into an electrical socket using the included power adaptor. A
 Open the Alexa app to set up your Echo Dot. Log in with an existing Amazon account username and password, or create a new account. If you aren’t prompted to set up your device after opening the Alexa app, tap the More icon to add your device manually. 
 The app helps you get more out of your Echo Dot. It’s where you set up calling and messaging, manage music, lists, settings and news. 
 
-## IMPORTANT PRODUCT INFORMATION
-For safety, compliance, recycling, and other important information regarding your Device, please refer to the Legal & Compliance section in the Settings menu of your Device App.
+>## IMPORTANT PRODUCT INFORMATION
+>*For safety, compliance, recycling, and other important information regarding your Device, please refer to the Legal & Compliance section in the Settings menu of your Device App.*
+
 ## REFERENCES
 [transition.fcc.gov FCC ID Search | Federal Communications Commission ](url)
 
